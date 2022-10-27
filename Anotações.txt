@@ -3,3 +3,13 @@
 ## Tentando mandar uma anotação feita no meu bloco de notas no meu note
 para o meu github
 amém.
+
+#Para mandar algo do note para o github
+
+git commit - m "falar o que é para você saber"
+
+git add para atualizar ou colocar 
+
+git status pra ver se ta td certo 
+
+git push origin main para mandar
